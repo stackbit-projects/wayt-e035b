@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Wayt
-    subtitle: Curbside Pickup
     content: |
       ## **Curbside Pickup**
 
