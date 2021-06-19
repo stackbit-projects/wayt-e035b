@@ -4,10 +4,12 @@ sections:
   - type: hero_section
     title: Wayt
     subtitle: Curbside Pickup
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: |
+      ## **Curbside Pickup**
+
+      ## **Appointments**
+
+      ## **Virtual Line**
     actions:
       - label: App Store
         url: /pricing
