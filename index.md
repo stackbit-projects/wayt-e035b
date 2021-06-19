@@ -4,11 +4,7 @@ sections:
   - type: hero_section
     title: Wayt
     content: |
-      ## **Curbside Pickup**
-
-      ## **Appointments**
-
-      ## **Virtual Line**
+      ## **Curbside Pickup Appointments Virtual Line**
     actions:
       - label: App Store
         url: /pricing
