@@ -5,9 +5,7 @@ sections:
     title: Wayt
     content: |
       ## **Curbside Pickup**
-
       ## **Appointments**
-
       ## **Virtual Line**
     actions:
       - label: App Store
