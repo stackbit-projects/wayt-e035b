@@ -16,7 +16,7 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/hero.svg
+    image: images/Screen Shot 2021-06-19 at 10.24.26 AM.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
